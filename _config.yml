@@ -14,7 +14,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: Geek Developer
+      title: Beging Geek | jhlee8804
 
 description: Stylish Jekyll Theme
 author:
