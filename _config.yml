@@ -7,7 +7,7 @@ highlighter: rouge
 markdown: kramdown
 disqus: jhlee8804
 google_analytics: 
-title: Geek Developer
+title: jhlee8804
 
 defaults:
   -
@@ -24,7 +24,7 @@ author:
   twitter: 
   pinterest: 
   linkedin: 
-  bio: Web, mobile, desktop application development
+  bio: Web, mobile, desktop application developer
   email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
