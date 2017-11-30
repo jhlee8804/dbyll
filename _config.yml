@@ -7,14 +7,14 @@ highlighter: rouge
 markdown: kramdown
 disqus: jhlee8804
 google_analytics: 
-title: jhlee8804
+title: jhlee8804 - Lightweight Developer
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: jhlee8804 - Lightweight Developer
+      title: 
 
 description: Stylish Jekyll Theme
 author:
